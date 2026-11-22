@@ -1,0 +1,55 @@
+# false positives for wishlist.txt
+
+# qwded104.exe
+http://reality.sgi.com/rae/quake/idfiles/qwded104.exe
+http://reality.sgi.com/rae_aw/quake/idfiles/qwded104.exe
+
+# steve.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Single%20Player/1997/Maps/Steve.zip
+http://ftp.sunet.se/idgames2/planetquake/thehuge/steve.zip
+http://ftp.sunet.se/planetquake/thehuge/steve.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/thehuge/steve.zip
+http://ftpmirror.infania.net/pub/PlanetQuake/thehuge/steve.zip
+http://ftpmirror.infania.net/pub/idgames2/demos/contest/skillz/steve.zip
+http://ftpmirror1.infania.net/pub/simtelnet/win95/font/steve.zip
+http://levelab.darknet.net/zips/steve.zip
+http://people.wiesbaden.netsurf.de/~kikita/zip/steve.zip
+http://privat.schlund.de/I/Intersurf5/steve.zip
+http://tux.telefragged.com/sports-gaming/blc/steve.zip
+http://www.gamers.org/pub/games/idgames2/demos/contest/skillz/steve.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/thehuge/steve.zip
+http://www.gamers.org/pub/idgames2/planetquake/thehuge/steve.zip
+http://www.gamers.org/pub/mirrors/ftp.planetquake.com/thehuge/steve.zip
+http://www.geocities.com/TimesSquare/Lair/4474/recs/steve.zip
+http://www.planetquake.com/dl/dl.asp?thehuge/steve.zip
+http://www.simtel.net/pub/simtelnet/win95/font/steve.zip
+https://ftpmirror.infania.net/pub/PlanetQuake/thehuge/steve.zip
+https://ftpmirror.infania.net/pub/idgames2/demos/contest/skillz/steve.zip
+https://www.gamers.org/pub/games/idgames2/demos/contest/skillz/steve.zip
+https://www.gamers.org/pub/games/idgames2/planetquake/thehuge/steve.zip
+https://www.gamers.org/pub/games/quake/demos/contest/skillz/steve.zip
+https://www.gamers.org/pub/games/quake/planetquake/thehuge/steve.zip
+https://www.gamers.org/pub/idgames2/demos/contest/skillz/steve.zip
+https://www.gamers.org/pub/idgames2/planetquake/thehuge/steve.zip
+https://www.gamers.org/pub/mirrors/ftp.planetquake.com/thehuge/steve.zip
+https://www.quaddicted.com/files/idgames2/demos/contest/skillz/steve.zip
+https://www.quaddicted.com/files/idgames2/planetquake/thehuge/steve.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/thehuge/steve.zip
+
+# SPELLING ERRORS IN URLS e.g. "blue" news
+# Quake-1_08_2.sit
+http://www.bluenews.com/files/macintosh/Quake-1_08_2.sit
+# Quake-3Dfx-1_08_2.sit
+http://www.bluenews.com/files/macintosh/Quake-3Dfx-1_08_2.sit
+# Quake-RAVE-1_08_2.sit
+http://www.bluenews.com/files/macintosh/Quake-RAVE-1_08_2.sit
+
+# qw233.zip
+http://hem.passagen.se/unik/skleros/files/qw233.zip
+
+# MacQW23b1.hqx
+http://www.quakefiles.com/files/download.php?filekey=qwmacqwb1&d_url=http://macspel.solgames.se/files/MacQW23b1.hqx
+
+# MacQWSrv23b1.hqx
+http://www.quakefiles.com/files/download.php?filekey=qwmacqwsr1&d_url=http://www.hover.net/mac/files/MacQWSrv23b1.hqx
